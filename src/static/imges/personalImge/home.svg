@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>home</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="desktop-1366" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="00-style-guide" transform="translate(-793.000000, -3137.000000)" fill="#0C128F">
+            <g id="05-user-menu" transform="translate(103.000000, 2908.000000)">
+                <g id="menu" transform="translate(650.000000, 101.000000)">
+                    <path d="M40,128 L44,128 L44,132 L40,132 L40,128 Z M40,136 L44,136 L44,140 L40,140 L40,136 Z M40,144 L44,144 L44,148 L40,148 L40,144 Z M48,128 L52,128 L52,132 L48,132 L48,128 Z M48,136 L52,136 L52,140 L48,140 L48,136 Z M48,144 L52,144 L52,148 L48,148 L48,144 Z M56,128 L60,128 L60,132 L56,132 L56,128 Z M56,136 L60,136 L60,140 L56,140 L56,136 Z M56,144 L60,144 L60,148 L56,148 L56,144 Z" id="home"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

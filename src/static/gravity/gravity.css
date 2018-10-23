@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity UltraLight'), local('Gravity-UltraLight'), url('Gravityultralight.woff2') format('woff2'), url('Gravityultralight.woff') format('woff'), url('Gravityultralight.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity UltraLight Italic'), local('Gravity-UltraLightItalic'), url('Gravityultralightitalic.woff2') format('woff2'), url('Gravityultralightitalic.woff') format('woff'), url('Gravityultralightitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity Light'), local('Gravity-Light'), url('Gravitylight.woff2') format('woff2'), url('Gravitylight.woff') format('woff'), url('Gravitylight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity Light Italic'), local('Gravity-LightItalic'), url('Gravitylightitalic.woff2') format('woff2'), url('Gravitylightitalic.woff') format('woff'), url('Gravitylightitalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity Book'), local('Gravity-Book'), url('Gravitybook.woff2') format('woff2'), url('Gravitybook.woff') format('woff'), url('Gravitybook.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity Book Italic'), local('Gravity-BookItalic'), url('Gravitybookitalic.woff2') format('woff2'), url('Gravitybookitalic.woff') format('woff'), url('Gravitybookitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity'), local('Gravity-Regular'), url('Gravity.woff2') format('woff2'), url('Gravity.woff') format('woff'), url('Gravity.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity Italic'), local('Gravity-Italic'), url('Gravityitalic.woff2') format('woff2'), url('Gravityitalic.woff') format('woff'), url('Gravityitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity Bold'), local('Gravity-Bold'), url('Gravitybold.woff2') format('woff2'), url('Gravitybold.woff') format('woff'), url('Gravitybold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gravity';
+    src: local('Gravity Bold Italic'), local('Gravity-BoldItalic'), url('Gravitybolditalic.woff2') format('woff2'), url('Gravitybolditalic.woff') format('woff'), url('Gravitybolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
